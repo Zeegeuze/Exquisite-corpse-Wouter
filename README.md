@@ -14,3 +14,5 @@ The prince and the princess lived happily until a dragon attacked and destroyed 
 The prince wanted revenge and left on a quest to find and kill the dragon.
 
 THE END AGAIN
+
+The prince discovered that the dragon was merely a tool in the hands of the princess, who was hiding a dark secret. He returned to the castle to uncover the truth.
