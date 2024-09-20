@@ -13,3 +13,4 @@ THE END
 The prince and the princess lived happily until a dragon attacked and destroyed their castle.
 The prince wanted revenge and left on a quest to find and kill the dragon.
 
+THE END AGAIN
